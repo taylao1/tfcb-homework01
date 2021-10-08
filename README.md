@@ -1,5 +1,6 @@
-##Homework 1
+#Homework 1
 **Tayla Olsen**
+
 
 Problem 1: [Link to Github profile](https://github.com/taylao1)
 
