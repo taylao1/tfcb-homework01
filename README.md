@@ -14,4 +14,5 @@ Problem 4: Added images to [images/](https://github.com/taylao1/tfcb-homework01/
 
 Problem 5: [By Link to README](https://github.com/taylao1/tfcb-homework01/blob/master/README.md)
 
-Problem 6: 
+Problem 6: Tidy [Survey Data](https://github.com/taylao1/tfcb-homework01/blob/master/Tidy%20Survey%20Data.txt)
+
