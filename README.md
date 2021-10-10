@@ -16,3 +16,9 @@ Problem 5: [By Link to README](https://github.com/taylao1/tfcb-homework01/blob/m
 
 Problem 6: Tidy [Survey Data](https://github.com/taylao1/tfcb-homework01/blob/master/Tidy%20Survey%20Data.txt)
 
+I made one tab with the Field Season data as previewed below: 
+
+| Field_Season | Species | Collection_Date | Plot | Sex | Weight_(g) | Calibration |
+|--------------|---------|-----------------|------|-----|------------|-------------|
+| 2013         | DM      | 2013-07-16      | 2    | F   | NULL       | NULL        |
+| 2013         | DM      | 2013-07-16      | 7    | M   | 33         | GOOD        |
