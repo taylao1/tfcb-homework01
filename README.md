@@ -21,5 +21,5 @@ I made one tab with the Field Season data as previewed below:
 
 | Field_Season | Species | Collection_Date | Plot | Sex | Weight_(g) | Calibration |
 |--------------|---------|-----------------|------|-----|------------|-------------|
-| 2013         | DM      | 2013-07-16      | 2    | F   | NaN       | NnN        |
+| 2013         | DM      | 2013-07-16      | 2    | F   | NaN       | NaN        |
 | 2013         | DM      | 2013-07-16      | 7    | M   | 33         | GOOD        |
